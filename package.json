@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "react-toastify": "^9.1.1"
+  },
+  "name": "muturage",
+  "description": "key components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "cd api && npm install && cd ../muturage && npm install && npm run build",
+    "start": "node api/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2ombe/Rwanda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2ombe/Rwanda/issues"
+  },
+  "homepage": "https://github.com/2ombe/Rwanda#readme"
+}

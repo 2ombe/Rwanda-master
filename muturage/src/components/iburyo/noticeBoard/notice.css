@@ -1,0 +1,59 @@
+.notice1 {
+  width: 90%;
+  height: 200px;
+  overflow: auto;
+  size-adjust: 35px;
+  -webkit-box-shadow: -7px 10px 5px 1px rgba(0, 0, 0, 0.54);
+  box-shadow: -7px 10px 5px 1px rgba(0, 0, 0, 0.54);
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+
+  box-sizing: content-box;
+}
+
+.noticewrapper {
+  padding: 10px;
+}
+.noticeImg {
+  width: 15rem;
+  align-content: center;
+}
+.images {
+  display: flex;
+  align-items: center;
+}
+.paricipantsImg {
+  margin: 10px;
+}
+.main {
+  width: 5rem;
+  margin-bottom: 15px;
+  justify-content: space-between;
+}
+.dates {
+  display: flex;
+  justify-content: space-between;
+}
+.contacts {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+.metting1 {
+  width: 90%;
+  size-adjust: 35px;
+  -webkit-box-shadow: -7px 10px 5px 1px rgba(0, 0, 0, 0.54);
+  box-shadow: -7px 10px 5px 1px rgba(0, 0, 0, 0.54);
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  bottom: 0;
+  box-sizing: content-box;
+}

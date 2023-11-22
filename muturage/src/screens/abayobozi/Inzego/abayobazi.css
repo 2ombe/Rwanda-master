@@ -1,0 +1,19 @@
+.abayobozi {
+  margin-bottom: 15px;
+}
+.container {
+  display: flex;
+}
+.ifoto {
+  width: 52px;
+  height: 52px;
+  border-radius: 10px;
+  margin-right: 10px;
+  border: 2px solid green;
+  object-fit: cover;
+}
+.inshingano {
+  font-size: 14px;
+  font-weight: bold;
+  color: rgb(6, 6, 90);
+}

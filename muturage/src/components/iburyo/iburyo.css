@@ -1,0 +1,5 @@
+.iburyo {
+  flex: 4;
+  overflow-y: scroll;
+  position: sticky;
+}

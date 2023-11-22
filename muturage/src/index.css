@@ -1,0 +1,40 @@
+.small-container {
+  max-width: 40vw;
+  height: 50vh;
+  -webkit-box-shadow: -13px 11px 11px 7px rgba(0, 0, 0, 0.87);
+  box-shadow: -13px 11px 11px 7px rgba(0, 0, 0, 0.87);
+
+  justify-content: center;
+}
+
+.checkout-steps > div {
+  border-bottom: 0.3rem solid gold;
+  color: gold;
+}
+.checkout-steps > div.active {
+  border-bottom: 0.3rem solid green;
+  color: rgb(0, 12, 100);
+}
+
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table th,
+.table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+
+.table th {
+  background-color: #f2f2f2;
+}
+
+.table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.table tr:hover {
+  background-color: #e0e0e0;
+}
